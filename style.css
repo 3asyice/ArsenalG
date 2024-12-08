@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24+Charted&family=Mirza:wght@400;500;600;700&display=swap');
+* {
+  overflow:auto;
+  margin:0 auto;
+  width:95%;
+}
+body {
+  width:100%;
+  background-color: rgba(0, 0, 0, 1);
+}
+h1 {
+  font-family: 'Jacquard 24 Charted', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  display:block;
+  flex-wrap: wrap;
+  font-style: normal;
+  color:rgba(31, 148, 45, 1);
+}
+h2 {
+  color:rgba(255, 255, 255, 1);
+  text-align: left;
+  margin:10px;
+  font-weight: 400;
+  font-weight: normal;
+  font-family: 'Mirza', sans-serif;
+  font-size: 21px;
+}
+.up__top {
+  background:rgba(40, 40, 40, 0.73);
+  margin:0;
+  display:block;
+}
