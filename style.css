@@ -2,7 +2,7 @@
 * {
   overflow:auto;
   margin:0 auto;
-  width:95%;
+  width:100%;
 }
 body {
   width:100%;
@@ -25,6 +25,9 @@ h2 {
   font-weight: normal;
   font-family: 'Mirza', sans-serif;
   font-size: 21px;
+}
+img{
+  width:100%;
 }
 .up__top {
   background:rgba(40, 40, 40, 0.73);
