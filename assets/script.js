@@ -42,8 +42,8 @@ document.addEventListener("DOMContentLoaded", function() {
   // Adicione a imagem ao link
   a.appendChild(img);
   
-  iframe.width = "100%";
-  iframe.height = "250";
+  iframe.width = "0%";
+  iframe.height = "0";
   iframe.border = "1px solid #00ff00";
   iframe.allowFullscreen = true;
   iframe.name = `iframe${video.title.replace(/\s+/g, '')}`;
