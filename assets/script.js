@@ -50,8 +50,6 @@ document.addEventListener("DOMContentLoaded", function() {
     iframe.src = "";
     iframe.frameBorder = "0";
     
-    // Configuração do botão de download
-    // Configuração do botão de download
 downloadButton.textContent = 'Download';
 downloadButton.style.marginTop = '10px';
 downloadButton.onclick = function() {
